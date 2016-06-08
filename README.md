@@ -9,3 +9,6 @@ This repo contain a example of how to use Java to:
   1. Generate a pair of keys (Private and public)
   2. Sign a file with the private key and generate the signature in a external file.
   3. Verify the autenticity of the file using the public key, the file and the file obtained in the step 2.
+
+Proximo trabajo:
+Traducir el codigo a ingles
