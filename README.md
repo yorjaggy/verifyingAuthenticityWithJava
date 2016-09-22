@@ -1,4 +1,4 @@
-# verifyingAuthenticityWithJava
+# Verificando autenticidad de archivos con Java - Verifying Authenticity With Java (Usando el API criptografico de Java)
 
 Este repositorio contiene un ejemplo de como usar Java para:
   1. Generar un par de llaves (Privada y publico) y asegurar la llave privada con una clave
